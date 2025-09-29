@@ -15,6 +15,7 @@ dependencies:
   image_picker: ^1.1.2
   supabase_flutter: ^2.9.0
   liquid_pull_to_refresh: ^3.0.1
+<<<<<<< HEAD
   flutter_map: ^8.2.1
   latlong2: ^0.9.1
   geocoding: ^4.0.0
@@ -23,21 +24,29 @@ dependencies:
   carousel_slider: ^4.2.1
   provider: ^6.1.1
   shared_preferences: ^2.2.2
+=======
+>>>>>>> e02d7735779508dfa88906bdc30d9f3232a854a0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+<<<<<<< HEAD
   flutter_launcher_icons: ^0.13.1
+=======
+>>>>>>> e02d7735779508dfa88906bdc30d9f3232a854a0
 
 flutter:
   uses-material-design: true
 
   assets:
     - lib/images/
+<<<<<<< HEAD
 
 flutter_icons:
   android: true
   ios: true
   image_path: "lib/images/Icon.png"
   
+=======
+>>>>>>> e02d7735779508dfa88906bdc30d9f3232a854a0
